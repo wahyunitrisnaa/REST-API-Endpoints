@@ -9,9 +9,9 @@ Customers can order as many items as they like from the menu.
 Each item ordered can only have one or no topping and one or no filling.
 
 Requirements
-Python 3.9.2
-Flask
-Docker
+1. Python 3.9.2
+2. Flask
+3. Docker
 
 API Endpoints and Methods
 /menu: Display the list of food menu in JSON ["GET"]
