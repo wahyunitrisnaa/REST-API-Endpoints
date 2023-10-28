@@ -1,3 +1,4 @@
+# REST-API-Endpoints
 A simple REST API service built in Python (flask) serves a list of food menu and calculates the price for customers order. The food menu data is stored in the food_menu.py file.
 
 ### Features
